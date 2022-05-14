@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HackTheOcean/static/css/main.a1eed0de.css",
+    "main.js": "/HackTheOcean/static/js/main.6410db0e.js",
+    "static/media/FishBg.mp4": "/HackTheOcean/static/media/FishBg.d9909b8757d0cc76e4aa.mp4",
+    "index.html": "/HackTheOcean/index.html",
+    "main.a1eed0de.css.map": "/HackTheOcean/static/css/main.a1eed0de.css.map",
+    "main.6410db0e.js.map": "/HackTheOcean/static/js/main.6410db0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1eed0de.css",
+    "static/js/main.6410db0e.js"
+  ]
+}
