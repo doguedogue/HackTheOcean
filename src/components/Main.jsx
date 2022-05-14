@@ -13,11 +13,11 @@ const Main = () => {
       <div className="content">
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/HackTheOcean/" element={<Home />} />
+            <Route path="/HackTheOcean/about" element={<About />} />
+            <Route path="/HackTheOcean/contact" element={<Contact />} />
 
-            <Route path="*" element={<Error404 />} />
+            <Route path="HackTheOcean/*" element={<Error404 />} />
           </Routes>
         </BrowserRouter>
       </div>
