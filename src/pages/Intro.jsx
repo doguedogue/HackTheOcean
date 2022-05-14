@@ -7,8 +7,11 @@ const Intro = () => {
       <main className="home">
         <nav class="navbar lighten-2-hover">
           <Link to="/home">
-            <h1>Hack The Ocean</h1>
-            <p>Launch X</p>
+            <button type="button" class="btn btn-outline-info">
+              <p></p>
+              <h1>Hack The Ocean</h1>
+              <p>Launch X</p>
+            </button>
           </Link>
         </nav>
       </main>
