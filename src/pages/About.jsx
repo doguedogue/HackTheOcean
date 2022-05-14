@@ -2,14 +2,14 @@ import Navbar from "../components/navbar";
 
 const About = () => {
   return (
-    <div className="content">
+    <div className="content text-bg">
       <Navbar />
-      <h2>Acerca de</h2>
+      <br/>
       <p>
         Se elabora un proyecto con conciencia, con una visión de nuestro mundo, de nuestros océanos, que nos permite voltear a ver un problema y darle la atención necesaria.
       </p>
       <p>
-        Este proyecto revisa las especies en peligro de extinción a nivel mundial, mediante una API especializada que conforma la _Red List IUCN (International Union for Conservation of Nature)_ Unión Internacional para la Conservación de la Naturaleza.
+        Este proyecto revisa las especies en peligro de extinción a nivel mundial, mediante una API especializada que conforma la <i>Red List IUCN (International Union for Conservation of Nature)</i> Unión Internacional para la Conservación de la Naturaleza.
       </p>
       <p>
         Nuestra solución a este problema es que una vez identificada la amenaza canalizar y fortalecer mediante las organizaciones:
