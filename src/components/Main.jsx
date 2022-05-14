@@ -1,4 +1,9 @@
 import FishBg from "../assets/FishBg.mp4";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import About from "../pages/About";
+import Home from "../pages/Home";
+import Contact from "../pages/Contact";
+import Error404 from "../pages/Error404";
 
 const Main = () => {
   return (
@@ -6,8 +11,15 @@ const Main = () => {
       <div className="overlay"></div>
       <video src={FishBg} autoPlay loop muted />
       <div className="content">
-        <h1>Hack The Ocean</h1>
-        <p>LaunchX</p>
+        <BrowserRouter>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+
+            <Route path="*" element={<Error404 />} />
+          </Routes>
+        </BrowserRouter>
       </div>
     </div>
   );
