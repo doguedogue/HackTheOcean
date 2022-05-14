@@ -1,15 +1,10 @@
-import { Link } from "react-router-dom";
+import Navbar from "../components/navbar";
 const Contact = () => {
   return (
-    <div>
-      <h1>Contact</h1>
+    <div className="content">
+      <Navbar />
+      <h2>Contact</h2>
       <p>visita mi sitio web </p>
-      <nav>
-        <Link to="/">Home</Link>
-      </nav>
-      <nav>
-        <Link to="/about">About</Link>
-      </nav>
     </div>
   );
 };

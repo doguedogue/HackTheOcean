@@ -1,18 +1,16 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import Navbar from "../components/navbar";
 
 const Home = () => {
   return (
-    <>
-      <main>
-        <nav>
-          <Link to="/about">
-            <h1>Hack The Ocean</h1>
-            <p>Launch X</p>
-          </Link>
-        </nav>
-      </main>
-    </>
+    <div className="content">
+      <Navbar />
+      <h2>Home</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quisquam
+        ducimus eligendi iste sunt? Iste provident quisquam voluptatem, possimus
+        excepturi minima quis nemo culpa aut impedit eveniet. Nemo, eum neque!
+      </p>
+    </div>
   );
 };
 
