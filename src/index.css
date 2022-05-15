@@ -1,7 +1,8 @@
 * {
 	margin: 0;
 	padding: 0;
-	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Roboto', sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
 }
 
 .main {
@@ -34,7 +35,7 @@ video {
 }
 
 .homes {
-	padding: 2.5%;
+	padding: 20px;
 	width: 100%;
 	height: auto;
 	display: flex;
@@ -43,10 +44,24 @@ video {
 	justify-content: center;
 }
 
-.homes > ul > li {
+li {
 	list-style: none;
 	text-decoration: none;
 	padding: 2px;
+}
+
+.divisor {
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	justify-content: center;
+}
+
+.divisor > ul > li:hover {
+	background-color: rgba(146, 176, 218, 0.85);
+	transition: background-color 1s;
 }
 
 .overlay {
@@ -63,23 +78,24 @@ a {
 	text-decoration: none;
 }
 
-.Developers > li > a {
-	list-style: none;
-	text-decoration: none;
+p {
+	padding: 1rem;
 }
 
-.Developers > li:hover {
-	background-color: rgba(42, 32, 149, 0.85);
+.developers > ul > li {
+	list-style: none;
+	text-decoration: none;
+	padding: 2%;
+}
+
+.developers > ul > li:hover {
+	background-color: rgba(146, 176, 218, 0.85);
 	transition: background-color 2s;
 	box-shadow: 5px 2px 2px black;
 	border-radius: 5px;
 }
 
-.Developers > li > a:hover {
-	color: rgb(173, 173, 201);
-}
-
-.Developers > li > a > img {
+.developers > ul > li > a > img {
 	border-style: solid;
 	border-color: rgb(42, 32, 149);
 	border-width: 2px;
@@ -87,4 +103,19 @@ a {
 	height: 50px;
 	width: 50px;
 	text-decoration: none;
+}
+
+.pics {
+	width: 12rem;
+	border-style: solid;
+	border-color: rgb(42, 32, 149);
+	border-width: 0.15rem;
+	border-radius: 1rem;
+}
+
+.pics:hover {
+	background-color: rgba(42, 32, 149, 0.85);
+	transition: background-color 2s;
+	box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.45);
+	border-radius: 1.15rem;
 }
