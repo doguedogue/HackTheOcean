@@ -1,4 +1,4 @@
-import Map from "../components/Map";
+import Map from "../components/Map/Map";
 import Navbar from "../components/navbar";
 
 const Home = () => {
