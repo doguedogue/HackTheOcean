@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HackTheOcean/static/css/main.96c27e6e.css",
-    "main.js": "/HackTheOcean/static/js/main.0a942dfb.js",
+    "main.css": "/HackTheOcean/static/css/main.84d9dd70.css",
+    "main.js": "/HackTheOcean/static/js/main.110057d9.js",
     "static/media/FishBg.mp4": "/HackTheOcean/static/media/FishBg.d9909b8757d0cc76e4aa.mp4",
     "index.html": "/HackTheOcean/index.html",
-    "main.96c27e6e.css.map": "/HackTheOcean/static/css/main.96c27e6e.css.map",
-    "main.0a942dfb.js.map": "/HackTheOcean/static/js/main.0a942dfb.js.map"
+    "main.84d9dd70.css.map": "/HackTheOcean/static/css/main.84d9dd70.css.map",
+    "main.110057d9.js.map": "/HackTheOcean/static/js/main.110057d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c27e6e.css",
-    "static/js/main.0a942dfb.js"
+    "static/css/main.84d9dd70.css",
+    "static/js/main.110057d9.js"
   ]
 }
