@@ -46,25 +46,27 @@ const Map = ({ places }) => {
           >
             <Popup>
               <img src={data.image} alt={data.name} />
-              <h1 className="btn btn-outline-primary">{data.scientificName}</h1>
+              <h1 className="btn btn-outline-primary m-3">
+                {data.scientificName}
+              </h1>
               <p>{data.description}</p>
               <h5 className="btn btn-outline-danger m-3">Red List Category:</h5>
               {data.redlistCategory === "Data Deficient" ? (
                 <img src={DD} alt="DD" height="100px" />
               ) : data.redlistCategory === "Least Concern" ? (
-                <img src={LC} alt="LC" />
+                <img src={LC} alt="LC" height="100px" />
               ) : data.redlistCategory === "Near Threatened" ? (
-                <img src={NT} alt="NT" />
+                <img src={NT} alt="NT" height="100px" />
               ) : data.redlistCategory === "Vulnerable" ? (
-                <img src={VU} alt="VU" />
+                <img src={VU} alt="VU" height="100px" />
               ) : data.redlistCategory === "Endangered" ? (
-                <img src={EN} alt="EN" />
+                <img src={EN} alt="EN" height="100px" />
               ) : data.redlistCategory === "Critically Endangered" ? (
-                <img src={CR} alt="CR" />
+                <img src={CR} alt="CR" height="100px" />
               ) : data.redlistCategory === "Extinct in the Wild" ? (
-                <img src={EW} alt="EW" />
+                <img src={EW} alt="EW" height="100px" />
               ) : (
-                <img src={EX} alt="EX" />
+                <img src={EX} alt="EX" height="100px" />
               )}
             </Popup>
           </Marker>

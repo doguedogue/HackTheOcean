@@ -9,5 +9,204 @@
       "lat": 38.06539235133249,
       "lng": -73.25683593750001
     }
+  },
+  {
+    "id": 2,
+    "scientificName": "Trichechus manatus",
+    "redlistCategory": "Vulnerable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trichechus_manatus%2C_NOAA.jpg/250px-Trichechus_manatus%2C_NOAA.jpg",
+    "description": "The West Indian manatee (Trichechus manatus) or 'sea cow', also known as North American manatee, is the largest member of the aquatic mammal order Sirenia (which also includes the dugong and the extinct Steller's sea cow).",
+    "gps": {
+      "lat": 23.32208001137844,
+      "lng": -76.86035156250001
+    }
+  },
+  {
+    "id": 3,
+    "scientificName": "Acanthurus coeruleus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Atlantic_blue_tang_surgeonfish_%28%22Acanthurus_coeruleus%22%29_-13092009a.jpg/265px-Atlantic_blue_tang_surgeonfish_%28%22Acanthurus_coeruleus%22%29_-13092009a.jpg",
+    "description": "Acanthurus coeruleus is a surgeonfish found commonly in the Atlantic Ocean. It can grow up to 39 centimetres (15 in) long. Common names include Atlantic blue tang, blue barber, blue doctor, blue doctorfish, blue tang, blue tang surgeonfish, yellow barber, and yellow doctorfish.",
+    "gps": {
+      "lat": 20.097206227083888,
+      "lng": -72.11425781250001
+    }
+  },
+  {
+    "id": 4,
+    "scientificName": "Rhinoptera bonasus",
+    "redlistCategory": "Vulnerable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rhinoptera_bonasus_Brest.jpg/220px-Rhinoptera_bonasus_Brest.jpg",
+    "description": "The cownose ray (Rhinoptera bonasus) is a species of Batoidea found throughout a large part of the western Atlantic and Caribbean, from New England, United States to southern Brazil (the East Atlantic populations are now generally considered a separate species, the Lusitanian cownose ray (R. marginata)). Male rays often reach about 2 and 1/2 feet in width. Females typically reach about 3 feet in width. However, there have been reports of rays up to 7 feet in width. Sizes change depending on the geographical range. Females will usually grow larger than males, allowing for larger offspring. These rays also belong to the order Myliobatiformes, a group that is shared by bat rays, manta rays, and eagle rays.",
+    "gps": {
+      "lat": 2.943040910055132,
+      "lng": -49.9658203125
+    }
+  },
+  {
+    "id": 5,
+    "scientificName": "Ctenochaetus marginatus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ctenochaetus_marginatus_-_Zoo_Frankfurt.jpg/220px-Ctenochaetus_marginatus_-_Zoo_Frankfurt.jpg",
+    "description": "Ctenochaetus marginatus is a tropical fish found in coral reefs in the Pacific Ocean. It was first named by Achille Valenciennes in 1835, and is commonly known as the striped-fin surgeonfish, the blue-spotted bristletooth, or the bluespotted surgeonfish. It is used in aquariums.",
+    "gps": {
+      "lat": 0.615222552406841,
+      "lng": -136.66992187500003
+    }
+  },
+  {
+    "id": 6,
+    "scientificName": "Naso lopezi",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Elongate_unicornfish_in_Night_coloration_%28Naso_lopezi%29_%2842955826600%29.jpg/220px-Elongate_unicornfish_in_Night_coloration_%28Naso_lopezi%29_%2842955826600%29.jpg",
+    "description": "Naso lopezi, the elongated unicornfish, is a unicornfish from the western Pacific Ocean. It occasionally makes its way into the aquarium trade. It grows to a length of 60 cm (24 in).",
+    "gps": {
+      "lat": -5.266007882805498,
+      "lng": 116.10351562500001
+    }
+  },
+  {
+    "id": 7,
+    "scientificName": "Naso lopezi",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Elongate_unicornfish_in_Night_coloration_%28Naso_lopezi%29_%2842955826600%29.jpg/220px-Elongate_unicornfish_in_Night_coloration_%28Naso_lopezi%29_%2842955826600%29.jpg",
+    "description": "Naso lopezi, the elongated unicornfish, is a unicornfish from the western Pacific Ocean. It occasionally makes its way into the aquarium trade. It grows to a length of 60 cm (24 in).",
+    "gps": {
+      "lat": -5.266007882805498,
+      "lng": 116.10351562500001
+    }
+  },
+  {
+    "id": 8,
+    "scientificName": "Anampses meleagrides",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Anampses_meleagrides.jpg/220px-Anampses_meleagrides.jpg",
+    "description": "The spotted wrasse, Anampses meleagrides, is a species of wrasse native to the Indian Ocean from the Red Sea and East Africa to the western Pacific Ocean to Samoa and the Tuamoto Islands and north to Japan. This species is found on coral reefs at depths of 3 to 60 m (9.8 to 196.9 ft). It can reach a length of 22 cm (8.7 in). It is of minor importance to local commercial fisheries and can be found in the aquarium trade.",
+    "gps": {
+      "lat": 7.36246686553575,
+      "lng": 72.94921875000001
+    }
+  },
+  {
+    "id": 9,
+    "scientificName": "Hipposcarus longiceps",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hipposcarus_longiceps.jpg/220px-Hipposcarus_longiceps.jpg",
+    "description": "Hipposcarus longiceps is a species of marine ray-finned fish, a parrotfish in the family Scaridae. It is found in the eastern Indian Oceans and the western Pacific Ocean from the Cocos-Keeling Islands and Rowley Shoals in the eastern Indian Ocean to the Line and Tuamotu islands in the east, north to the Ryukyu Islands, south to the Great Barrier Reef and New Caledonia.",
+    "gps": {
+      "lat": -4.039617826768424,
+      "lng": 146.95312500000003
+    }
+  },
+  {
+    "id": 10,
+    "scientificName": "Argyropelecus hemigymnus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Messina_Straits_Argyropelecus_hemigymnus.jpg/220px-Messina_Straits_Argyropelecus_hemigymnus.jpg",
+    "description": "Naso lopezi, the elongated unicornfish, is a unicornfish from the western Pacific Ocean. It occasionally makes its way into the aquarium trade. It grows to a length of 60 cm (24 in).",
+    "gps": {
+      "lat": -33.57801474614399,
+      "lng": -6.152343750000001
+    }
+  },
+  {
+    "id": 11,
+    "scientificName": "Balaenoptera musculus",
+    "redlistCategory": "Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "description": "The blue whale (Balaenoptera musculus) is a marine mammal and a baleen whale. Reaching a maximum confirmed length of 29.9 meters (98 ft) and weighing up to 199 metric tons (196 long tons; 219 short tons), it is the largest animal known to have ever existed. The blue whale's long and slender body can be of various shades of greyish-blue dorsally and somewhat lighter underneath. Four subspecies are recognized: B. m. musculus in the North Atlantic and North Pacific, B. m. intermedia in the Southern Ocean, B. m. brevicauda (the pygmy blue whale) in the Indian Ocean and South Pacific Ocean, B. m. indica in the Northern Indian Ocean. There is also a population in the waters off Chile that may constitute a fifth subspecies.",
+    "gps": {
+      "lat": -50.95842672335993,
+      "lng": 84.02343750000001
+    }
+  },
+  {
+    "id": 12,
+    "scientificName": "Megaptera novaeangliae",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Humpback_Whale_underwater_shot.jpg/220px-Humpback_Whale_underwater_shot.jpg ",
+    "description": "The blue whale (Balaenoptera musculus) is a marine mammal and a baleen whale. Reaching a maximum confirmed length of 29.9 meters (98 ft) and weighing up to 199 metric tons (196 long tons; 219 short tons), it is the largest animal known to have ever existed. The blue whale's long and slender body can be of various shades of greyish-blue dorsally and somewhat lighter underneath. Four subspecies are recognized: B. m. musculus in the North Atlantic and North Pacific, B. m. intermedia in the Southern Ocean, B. m. brevicauda (the pygmy blue whale) in the Indian Ocean and South Pacific Ocean, B. m. indica in the Northern Indian Ocean. There is also a population in the waters off Chile that may constitute a fifth subspecies.",
+    "gps": {
+      "lat": -50.95842672335993,
+      "lng": 84.02343750000001
+    }
+  },
+  {
+    "id": 13,
+    "scientificName": "Balaenoptera physalus",
+    "redlistCategory": "Vulnerable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/LMazzuca_Fin_Whale.jpg",
+    "description": "Fin Whales occur worldwide, mainly, but not exclusively, in offshore waters of the temperate and subpolar zones. They show some poleward migration in summer but appear to be present at some level throughout their range throughout the year",
+
+    "gps": {
+      "lat": 74.122627,
+      "lng": -88.475357
+    }
+  },
+  {
+    "id": 14,
+    "scientificName": "Ursus maritimus",
+    "redlistCategory": "Vulnerable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polar_Bear_-_Alaska.jpg/250px-Polar_Bear_-_Alaska.jpg",
+    "description": "Polar Bears live throughout the ice-covered waters of the circumpolar Arctic. Although some occur in the permanent multi-year pack ice of the central Arctic basin, they are most common in the annual ice over the continental shelf and inter-island archipelagos that surround the polar basin",
+    "gps": {
+      "lat": 76.446167,
+      "lng": -145.943925
+    }
+  },
+  {
+    "id": 15,
+    "scientificName": "Somniosus microcephalus",
+    "redlistCategory": "Vulnerable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Somniosus_microcephalus_okeanos.jpg/250px-Somniosus_microcephalus_okeanos.jpg",
+    "description": "This species potentially has the world's longest generation span of 274 years, however, we conservatively use a generation length of 150 years, and consider a generation length of 50–75 years. The Greenland Shark is found in the North Atlantic from the USA and Canada to Greenland in the west and from Portugal to the Barents Sea and Eastern Siberian Sea.",
+    "gps": {
+      "lat": 77.58894,
+      "lng": -5.089599
+    }
+  },
+  {
+    "id": 16,
+    "scientificName": "Pusa hispida",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ringedsealportrait.jpg/250px-Ringedsealportrait.jpg",
+    "description": "As a species, Ringed Seals are widely distributed in ice-covered waters of the northern hemisphere, and they may presently number about three million animals. Ringed Seals have a circumpolar distribution throughout the Arctic Basin including records of individuals near the North Pole",
+    "gps": {
+      "lat": 74.385401,
+      "lng": 71.680641
+    }
+  },
+  {
+    "id": 17,
+    "scientificName": "Eschrichtius robustus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anim1723_-_Flickr_-_NOAA_Photo_Library.jpg/250px-Anim1723_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "description": "Gray Whales are now regularly found only in the North Pacific and adjacent seas. They congregate in winter in or around various lagoons along the west coast of Baja California (Mexico) and small numbers also occur in winter in the Gulf of California and along the Mexican mainland",
+    "gps": {
+      "lat": 30.054826,
+      "lng": -122.75293
+    }
+  },
+  {
+    "id": 18,
+    "scientificName": "Pagophilus groenlandicus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Harp_seal_at_False_Cape_%28cropped%29.jpg/240px-Harp_seal_at_False_Cape_%28cropped%29.jpg",
+    "description": "Harp Seals are widespread in the North Atlantic and the adjacent Arctic Ocean and shelf seas. Their range extends from a western extreme in northern Hudson Bay and the Foxe Basin, Baffin Island and the Davis Strait, eastward through the Gulf of Saint Lawrence and Newfoundland region in the western North Atlantic",
+    "gps": {
+      "lat": 44.055073964108736,
+      "lng": -59.76234546720946
+    }
+  },
+  {
+    "id": 19,
+    "scientificName": "Diplodus sargus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Diplodus_sargus_01.jpg/250px-Diplodus_sargus_01.jpg",
+    "description": "Diplodus sargus is widespread, ranging from the Bay of Biscay, throughout the Mediterranean, along the West coast of Africa, including Cape Verde, the Canaries, Ascension Island, Helena Island, and in the Persian Gulf. This species occurs to 150 m depth.",
+    "gps": {
+      "lat": 36.17230367058033,
+      "lng": 21.05841205353218
+    }
   }
 ]
