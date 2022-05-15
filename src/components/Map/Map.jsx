@@ -1,27 +1,25 @@
 import React from 'react'
 import './Map.css'
 
-import { MapContainer, Marker, TileLayer, Popup } from 'react-leaflet'
+import { MapContainer, TileLayer } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
+import AnimalMarker from './AnimalMarker'
 
-//Workaround to fix marker icon issue
-import markerIconPng from 'leaflet/dist/images/marker-icon.png'
-import { Icon } from 'leaflet'
 
 
 export default function Map() {
-  const position = [20.3229714, -103.8999308]
+  const position = [21.234711923744378, -95.79602090609873]
   return (
     <div>
       <MapContainer center={position} zoom={5}>
       <TileLayer
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      <Marker position={position} icon={new Icon({ iconUrl: markerIconPng, iconSize: [25, 41], iconAnchor: [ 12, 41] })}>
-        <Popup>
-          A pretty CSS3 popup. <br /> Easily customizable.
-        </Popup>
-      </Marker>
+      <AnimalMarker position={position}
+       name={"Polyprion americanus"}
+       image={"https://upload.wikimedia.org/wikipedia/commons/e/e7/Polyprion_americanus.png"}
+       description={"The Atlantic wreckfish, also known as the stone bass or bass grouper, is a marine, bathydemersal, and oceanodromous ray-finned fish in the family Polyprionidae."}
+      />
       </MapContainer>
     </div>
   )
