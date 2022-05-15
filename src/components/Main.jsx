@@ -9,7 +9,7 @@ import Intro from "../pages/Intro";
 const Main = () => {
   return (
     <div className="main">
-      <div className="overlay"></div>
+      <div className="overlay" />
       <video src={FishBg} autoPlay loop muted />
       <div>
         <BrowserRouter>
