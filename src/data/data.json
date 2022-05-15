@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "scientificName": "Polyprion americanus",
+    "redlistCategory": "Data Deficient",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Polyprion_americanus.png",
+    "description": "The Atlantic wreckfish, also known as the stone bass or bass grouper, is a marine, bathydemersal, and oceanodromous ray-finned fish in the family Polyprionidae.",
+    "gps": {
+      "lat": 38.06539235133249,
+      "lng": -73.25683593750001
+    }
+  }
+]

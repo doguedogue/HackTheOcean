@@ -1,185 +1,195 @@
 * {
-	margin: 0;
-	padding: 0;
-	/*font-family: 'Roboto', sans-serif;*/
-	font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  /*font-family: 'Roboto', sans-serif;*/
+  font-family: "Open Sans", sans-serif;
 }
 
 .main {
-	width: 100%;
-	height: 100vh;
+  width: 100%;
+  height: 100vh;
 }
 
 video {
-	display: block;
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .content {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: white;
 }
 
 .home {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	text-align: center;
-	color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
 }
 
 .homes {
-	padding: 10px;
-	width: 100%;
-	height: auto;
-	display: flex;
-	flex-direction: column;
-	text-align: center;
-	justify-content: center;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
 }
 
 .divisor > ul > li {
-	list-style: none;
-	text-decoration: none;
-	padding: 1px;
+  list-style: none;
+  text-decoration: none;
+  padding: 1px;
 }
 
 .divisor {
-	width: 100%;
-	height: auto;
-	display: flex;
-	flex-direction: row;
-	text-align: center;
-	justify-content: center;
-	padding-left: 15px;
-	padding-right: 15px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .divisor > ul > li:hover {
-	background-color: rgba(146, 176, 218, 0.85);
-	transition: background-color 1s;
+  background-color: rgba(146, 176, 218, 0.85);
+  transition: background-color 1s;
 }
 
 .overlay {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-color: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 a {
-	color: white;
-	text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 p {
-	padding-top: 25px;
-	padding-left: 15px;
-	padding-right: 15px;
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .developers > ul > li {
-	list-style: none;
-	text-decoration: none;
-	padding: 1rem;
+  list-style: none;
+  text-decoration: none;
+  padding: 1rem;
 }
 
 .developers > ul > li:hover {
-	background-color: rgba(146, 176, 218, 0.85);
-	transition: background-color 2s;
-	box-shadow: 5px 2px 2px black;
-	border-radius: 5px;
+  background-color: rgba(146, 176, 218, 0.85);
+  transition: background-color 2s;
+  box-shadow: 5px 2px 2px black;
+  border-radius: 5px;
 }
 
 .developers > ul > li > a > img {
-	border-style: solid;
-	border-color: rgb(42, 32, 149);
-	border-width: 2px;
-	border-radius: 20%;
-	text-decoration: none;
-	width: 4rem;
+  border-style: solid;
+  border-color: rgb(42, 32, 149);
+  border-width: 2px;
+  border-radius: 20%;
+  text-decoration: none;
+  width: 4rem;
 }
 
 .pics {
-	border-style: solid;
-	border-color: rgb(42, 32, 149);
-	border-width: 0.15rem;
-	border-radius: 1rem;
-	width: 35vh;
-	margin: 10px;
+  border-style: solid;
+  border-color: rgb(42, 32, 149);
+  border-width: 0.15rem;
+  border-radius: 1rem;
+  width: 35vh;
+  margin: 10px;
 }
 
 .pics:hover {
-	background-color: rgba(42, 32, 149, 0.85);
-	transition: background-color 2s;
-	box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.45);
-	border-radius: 1.15rem;
+  background-color: rgba(42, 32, 149, 0.85);
+  transition: background-color 2s;
+  box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.45);
+  border-radius: 1.15rem;
 }
 
 @media (max-width: 800px) {
-	.divisor {
-		width: 100%;
-		height: 100%;
-		display: flex;
-		flex-direction: column;
-		text-align: center;
-		justify-content: center;
-		padding: 0px;
-		margin: 0;
-		font-size: 0.8rem;
-	}
+  .divisor {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding: 0px;
+    margin: 0;
+    font-size: 0.8rem;
+  }
 
-	.divisor > img {
-		display: none;
-		padding: 0;
-		margin: 0;
-		width: 0;
-		height: 0;
-	}
+  .divisor > img {
+    display: none;
+    padding: 0;
+    margin: 0;
+    width: 0;
+    height: 0;
+  }
 
-	p {
-		padding: 15px;
-	}
+  p {
+    padding: 15px;
+  }
 
-	.homes {
-		padding: 0px;
-	}
+  .homes {
+    padding: 0px;
+  }
 
-	.developers > ul > li > a > img {
-		border-style: solid;
-		border-color: rgb(42, 32, 149);
-		border-width: 1px;
-		border-radius: 10%;
-		text-decoration: none;
-		width: 4rem;
-	}
+  .developers > ul > li > a > img {
+    border-style: solid;
+    border-color: rgb(42, 32, 149);
+    border-width: 1px;
+    border-radius: 10%;
+    text-decoration: none;
+    width: 4rem;
+  }
 
-	.developers > ul > li:hover {
-		background-color: rgba(146, 176, 218, 0.85);
-		transition: background-color 1s;
-		box-shadow: 3px 1px 21x black;
-		border-radius: 2px;
-	}
+  .developers > ul > li:hover {
+    background-color: rgba(146, 176, 218, 0.85);
+    transition: background-color 1s;
+    box-shadow: 3px 1px 21x black;
+    border-radius: 2px;
+  }
 
-	.developers > ul > li > a {
-		width: 90%;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 0px;
-	}
+  .developers > ul > li > a {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+  }
 
-	.overlay {
-		position: fixed;
-		background-color: rgba(0, 0, 0, 0.4);
-	}
+  .overlay {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+}
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+.leaflet-popup-content > p {
+  text-align: justify;
+  margin: 0;
+  padding: 0;
 }
