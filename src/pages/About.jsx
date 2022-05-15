@@ -9,7 +9,6 @@ const About = () => {
 				<button type='button' className='btn btn-outline-info'>
 					<h2>About</h2>
 				</button>
-				<br />
 				<div className='divisor'>
 					<p>
 						El proposito de este proyecto es crear conciencia; una vision de nuestro mundo, los oceanos y la gran
@@ -22,7 +21,6 @@ const About = () => {
 						alt='Oceano_Tortuga'
 					/>
 				</div>
-				<br />
 				<div className='divisor'>
 					<img
 						src='https://www.sanbi.org/wp-content/uploads/2018/07/iucn-red-list-logo-red.jpg'
