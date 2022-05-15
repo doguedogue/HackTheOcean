@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/HackTheOcean/static/css/main.84d9dd70.css",
-    "main.js": "/HackTheOcean/static/js/main.110057d9.js",
+    "main.css": "/HackTheOcean/static/css/main.02937e07.css",
+    "main.js": "/HackTheOcean/static/js/main.b6c9b9ba.js",
     "static/media/FishBg.mp4": "/HackTheOcean/static/media/FishBg.d9909b8757d0cc76e4aa.mp4",
+    "static/media/CR.svg": "/HackTheOcean/static/media/CR.6fe1495825e4380e4d9eb41a679e5b21.svg",
+    "static/media/LC.svg": "/HackTheOcean/static/media/LC.a9acdb92875a795c31e82aab5c5d0b97.svg",
+    "static/media/NT.svg": "/HackTheOcean/static/media/NT.6068a9111ea03f199f3c535566dab32b.svg",
+    "static/media/EN.svg": "/HackTheOcean/static/media/EN.366b605214ec63dabbeff883869079d1.svg",
+    "static/media/EW.svg": "/HackTheOcean/static/media/EW.1ae9646225848993433fd94ce2c9fa10.svg",
+    "static/media/VU.svg": "/HackTheOcean/static/media/VU.ebf5af34e3bc97bc57f92b4f599499bf.svg",
+    "static/media/DD.svg": "/HackTheOcean/static/media/DD.aa15cceb45d2aae3775f3796a17f0d89.svg",
+    "static/media/EX.svg": "/HackTheOcean/static/media/EX.d5b9318e363c0a2b4fd626bfdd79b552.svg",
     "index.html": "/HackTheOcean/index.html",
-    "main.84d9dd70.css.map": "/HackTheOcean/static/css/main.84d9dd70.css.map",
-    "main.110057d9.js.map": "/HackTheOcean/static/js/main.110057d9.js.map"
+    "main.02937e07.css.map": "/HackTheOcean/static/css/main.02937e07.css.map",
+    "main.b6c9b9ba.js.map": "/HackTheOcean/static/js/main.b6c9b9ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.84d9dd70.css",
-    "static/js/main.110057d9.js"
+    "static/css/main.02937e07.css",
+    "static/js/main.b6c9b9ba.js"
   ]
 }
