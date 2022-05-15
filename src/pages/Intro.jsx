@@ -5,9 +5,9 @@ const Intro = () => {
   return (
     <>
       <main className="home">
-        <nav class="navbar lighten-2-hover">
+        <nav className="navbar lighten-2-hover">
           <Link to="/home">
-            <button type="button" class="btn btn-outline-info">
+            <button type="button" className="btn btn-outline-info">
               <p></p>
               <h1>Hack The Ocean</h1>
               <p>Launch X</p>

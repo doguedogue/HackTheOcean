@@ -20,7 +20,7 @@ const Contact = () => {
             >
               <img
                 src="https://avatars.githubusercontent.com/u/101657514?v=4"
-                class="circle"
+                className="circle"
                 alt="@lukitachan"
               />
               &nbsp; Lucy &nbsp; @lukitachan
@@ -34,7 +34,7 @@ const Contact = () => {
             >
               <img
                 src="https://avatars.githubusercontent.com/u/99354481?v=4"
-                class="circle"
+                className="circle"
                 alt="@chistoperez"
               />
               &nbsp; Christopher &nbsp; @chistoperez
@@ -48,7 +48,7 @@ const Contact = () => {
             >
               <img
                 src="https://avatars.githubusercontent.com/u/72330887?v=4"
-                class="circle"
+                className="circle"
                 alt="@dfredude"
               />
               &nbsp; Alfred &nbsp; @dfredude
@@ -62,7 +62,7 @@ const Contact = () => {
             >
               <img
                 src="https://avatars.githubusercontent.com/u/23409026?s=96&amp;v=4"
-                class="circle"
+                className="circle"
                 alt="@doguedogue"
               />
               &nbsp;Rafael &nbsp; @doguedogue
