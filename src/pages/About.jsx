@@ -9,12 +9,12 @@ const About = () => {
 				<button type='button' className='btn btn-outline-info'>
 					<h2>About</h2>
 				</button>
-				<br />
 				<div className='divisor'>
 					<p>
 						El proposito de este proyecto es crear conciencia; una vision de nuestro mundo, los oceanos y la gran
 						biodiversidad que alberga. La poblacion debe estar conciente del problema y darle la atencion necesaria para
-						que desde el presente las futuras generaciones ayuden a salvaguardar nuetsro hermoso planeta.
+						que desde el presente nosotros para las futuras generaciones ayudemos a salvaguardar nuetsro hermoso
+						planeta.
 					</p>
 					<img
 						src='https://dam.ngenespanol.com/wp-content/uploads/2019/05/tortugas-marinas.png'
@@ -22,7 +22,6 @@ const About = () => {
 						alt='Oceano_Tortuga'
 					/>
 				</div>
-				<br />
 				<div className='divisor'>
 					<img
 						src='https://www.sanbi.org/wp-content/uploads/2018/07/iucn-red-list-logo-red.jpg'
@@ -31,8 +30,8 @@ const About = () => {
 					/>
 					<p>
 						Este proyecto ofrece una visualizacion de las especies en peligro de extinción a nivel mundial almacenadas
-						en la API especializada que conforma la Red List IUCN (International Union for Conservation of Nature) Unión
-						Internacional para la Conservación de la Naturaleza.
+						en una API especializada: Red List IUCN (International Union for Conservation of Nature) o la 'Unión
+						Internacional para la Conservación de la Naturaleza'.
 					</p>
 				</div>
 				<div className='divisor'>
