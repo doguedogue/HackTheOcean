@@ -89,6 +89,7 @@ p {
 .developers > ul > li {
 	list-style: none;
 	text-decoration: none;
+	padding: 1rem;
 }
 
 .developers > ul > li:hover {
