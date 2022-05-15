@@ -5,3 +5,11 @@
 .leaflet-popup-content>img{
     height: 110px;
 }
+
+.leaflet-popup-content>p {
+    margin: 0px 5px 15px;
+}
+
+.leaflet-popup-content>h5{
+    margin-bottom: 5px;
+}
