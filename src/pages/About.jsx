@@ -2,14 +2,32 @@ import Navbar from "../components/navbar";
 
 const About = () => {
   return (
-    <div className="content">
+    <div className="content text-bg">
       <Navbar />
-      <h2>About</h2>
+      <br/>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quisquam
-        ducimus eligendi iste sunt? Iste provident quisquam voluptatem, possimus
-        excepturi minima quis nemo culpa aut impedit eveniet. Nemo, eum neque!
+        Se elabora un proyecto con conciencia, con una visión de nuestro mundo, de nuestros océanos, que nos permite voltear a ver un problema y darle la atención necesaria.
       </p>
+      <p>
+        Este proyecto revisa las especies en peligro de extinción a nivel mundial, mediante una API especializada que conforma la <i>Red List IUCN (International Union for Conservation of Nature)</i> Unión Internacional para la Conservación de la Naturaleza.
+      </p>
+      <p>
+        Nuestra solución a este problema es que una vez identificada la amenaza canalizar y fortalecer mediante las organizaciones:
+      </p>
+      <ul>
+        <li>
+          Protección y Conservación Pelágica AC &nbsp;<a href="http://www.pelagiclife.org/">Pelagic Life</a>
+        </li>
+        <li>
+          Fondo Mundial para la naturaleza &nbsp;<a href="https://www.wwf.org.mx/">WFF</a>
+        </li>
+        <li>
+          La Asociación Mexicana de Hábitats para la Interacción y Protección de Mamíferos Marinos &nbsp;<a href="http://www.amhmar.org.mx/">AMHMAR</a>
+        </li>
+        <li>
+          Oceana &nbsp;<a href="https://mx.oceana.org/">Oceana</a> 
+        </li>
+      </ul>
     </div>
   );
 };

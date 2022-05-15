@@ -13,6 +13,13 @@
   }
 }
 
+.text-bg {
+    background:rgba(0, 0, 0, 0.5); 
+}
+.circle {
+  border-radius: 50%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
