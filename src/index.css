@@ -33,6 +33,22 @@ video {
   color: white;
 }
 
+.homes {
+  padding: 2.5%;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.homes > ul > li {
+  list-style: none;
+  text-decoration: none;
+  padding: 2px;
+}
+
 .overlay {
   position: absolute;
   top: 0;
@@ -44,5 +60,31 @@ video {
 
 a {
   color: white;
+  text-decoration: none;
+}
+
+.Developers > li > a {
+  list-style: none;
+  text-decoration: none;
+}
+
+.Developers > li:hover {
+  background-color: rgba(42, 32, 149, 0.85);
+  transition: background-color 2s;
+  box-shadow: 5px 2px 2px black;
+  border-radius: 5px;
+}
+
+.Developers > li > a:hover {
+  color: rgb(173, 173, 201);
+}
+
+.Developers > li > a > img {
+  border-style: solid;
+  border-color: rgb(42, 32, 149);
+  border-width: 2px;
+  border-radius: 20%;
+  height: 50px;
+  width: 50px;
   text-decoration: none;
 }
