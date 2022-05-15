@@ -35,7 +35,7 @@ video {
 }
 
 .homes {
-	padding: 20px;
+	padding: 10px;
 	width: 100%;
 	height: auto;
 	display: flex;
@@ -47,7 +47,7 @@ video {
 .divisor > ul > li {
 	list-style: none;
 	text-decoration: none;
-	padding: 2px;
+	padding: 1px;
 }
 
 .divisor {
