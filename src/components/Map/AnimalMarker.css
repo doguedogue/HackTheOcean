@@ -1,3 +1,7 @@
 .leaflet-popup-content{
     text-align: center;
 }
+
+.leaflet-popup-content>img{
+    height: 110px;
+}

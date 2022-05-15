@@ -11,7 +11,7 @@ export default function AnimalMarker({ position, name, image, description }) {
     <Marker position={position} icon={new Icon({ iconUrl: markerIconPng, iconSize: [25, 41], iconAnchor: [ 12, 41] })}>
         <Popup>
           <img src={image} alt="Specie Image" />
-          <h3>{name}</h3><p>{description}</p>
+          <h4>{name}</h4><p>{description}</p>
         </Popup>
     </Marker>
   )
