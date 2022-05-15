@@ -13,7 +13,8 @@ const About = () => {
 					<p>
 						El proposito de este proyecto es crear conciencia; una vision de nuestro mundo, los oceanos y la gran
 						biodiversidad que alberga. La poblacion debe estar conciente del problema y darle la atencion necesaria para
-						que desde el presente las futuras generaciones ayuden a salvaguardar nuetsro hermoso planeta.
+						que desde el presente nosotros para las futuras generaciones ayudemos a salvaguardar nuetsro hermoso
+						planeta.
 					</p>
 					<img
 						src='https://dam.ngenespanol.com/wp-content/uploads/2019/05/tortugas-marinas.png'
@@ -29,8 +30,8 @@ const About = () => {
 					/>
 					<p>
 						Este proyecto ofrece una visualizacion de las especies en peligro de extinción a nivel mundial almacenadas
-						en la API especializada que conforma la Red List IUCN (International Union for Conservation of Nature) Unión
-						Internacional para la Conservación de la Naturaleza.
+						en una API especializada: Red List IUCN (International Union for Conservation of Nature) o la 'Unión
+						Internacional para la Conservación de la Naturaleza'.
 					</p>
 				</div>
 				<div className='divisor'>
