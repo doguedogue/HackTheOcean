@@ -208,5 +208,104 @@
       "lat": 36.17230367058033,
       "lng": 21.05841205353218
     }
+  },
+  {
+    "id": 20,
+    "scientificName": "Acipenser sinensis",
+    "redlistCategory": "Critically Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Acipenser_sinensis.JPG/220px-Acipenser_sinensis.JPG",
+    "description": "The Chinese sturgeon (Acipenser sinensis; pinyin: zhōnghuá xún) is a critically endangered member of the family Acipenseridae in the order Acipenseriformes. Historically, this anadromous fish was found in China, Japan, and the Korean Peninsula, but it has been extirpated from most regions due to habitat loss and overfishing. It is strictly protected by the Chinese government, named a 'national treasure' much like its mammalian counterpart, the giant panda. China has several conservation programmes, including reserves specifically aimed at this species and restocking through release of juveniles in the Yangtze River.",
+    "gps": {
+      "lat": 34.92197103616377,
+      "lng": 123.95312500000003
+    }
+  },
+  {
+    "id": 21,
+    "scientificName": "Acropora cervicornis",
+    "redlistCategory": "Critically Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hertshoon.jpg/220px-Hertshoon.jpg",
+    "description": "The staghorn coral (Acropora cervicornis) is a branching, stony coral with cylindrical branches ranging from a few centimetres to over two metres in length and height. It occurs in back reef and fore reef environments from 0 to 30 m (0 to 98 ft) depth. The upper limit is defined by wave forces, and the lower limit is controlled by suspended sediments and light availability. Fore reef zones at intermediate depths 5–25 m (16–82 ft) were formerly dominated by extensive single-species stands of staghorn coral until the mid-1980s. This coral exhibits the fastest growth of all known western Atlantic fringe corals, with branches increasing in length by 10–20 cm (3.9–7.9 in) per year. This has been one of the three most important Caribbean corals in terms of its contribution to reef growth and fishery habitat.",
+    "gps": {
+      "lat": 18.858763775063853,
+      "lng": -93.5944770496974
+    }
+  },
+  {
+    "id": 22,
+    "scientificName": "Lepidochelys kempii",
+    "redlistCategory": "Critically Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lepidochelys_kempii.jpg/220px-Lepidochelys_kempii.jpg",
+    "description": "Kemp's ridley sea turtle (Lepidochelys kempii), also called the Atlantic ridley sea turtle, is the rarest species of sea turtle and is the world's most endangered species of sea turtle. It is one of two living species in the genus Lepidochelys (the other one being L. olivacea, the olive ridley sea turtle).",
+    "gps": {
+      "lat": 28.23111630695117,
+      "lng": -95.9675239246974
+    }
+  },
+  {
+    "id": 23,
+    "scientificName": "Haliotis sorenseni",
+    "redlistCategory": "Critically Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Whiteabalone_300.jpg/220px-Whiteabalone_300.jpg",
+    "description": "The white abalone, scientific name Haliotis sorenseni, is a species of large sea snail, a marine gastropod mollusk in the family Haliotidae, the abalones. The white abalone is an endangered species in the United States; it may now have the smallest population of all eight of the abalone species on the west coast of North America.",
+    "gps": {
+      "lat": 30.37287518811804,
+      "lng": -117.15820312500001
+    }
+  },
+  {
+    "id": 24,
+    "scientificName": "Glaucostegus halavi",
+    "redlistCategory": "Critically Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Guitarfish_marsa_alam.jpg/220px-Guitarfish_marsa_alam.jpg",
+    "description": "The halavi guitarfish (Glaucostegus halavi) is a species of ray found in the Indo-West Pacific (Red Sea to Gulf of Oman, with unconfirmed records in the area east of Oman). It feeds on small molluscs and bony fishes.",
+    "gps": {
+      "lat": 24.883430496389888,
+      "lng": 53.4153402125885
+    }
+  },
+  {
+    "id": 25,
+    "scientificName": "Parablennius incognitus",
+    "redlistCategory": "Least Concern",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Parablennius_incognitus_31-07-07.jpg/240px-Parablennius_incognitus_31-07-07.jpg",
+    "description": "Parablennius incognitus is found in the eastern Atlantic, from the Iberian Peninsula to Morocco, including the Mediterranean, the Sea of Marmara, and the northern and eastern Black Sea.",
+    "gps": {
+      "lat": 37.99513440923281,
+      "lng": 1.3709123580831764
+    }
+  },
+  {
+    "id": 26,
+    "scientificName": "Hippocampus trimaculatus",
+    "redlistCategory": "Vulnerable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/TakakuraTy.jpg/250px-TakakuraTy.jpg",
+    "description": "This species' range encompasses much of the Eastern Indian Ocean and the Western Pacific. It extends from the west coast of India and Sri Lanka northeast to Japan, Sakhalin Island and southeastern Russia and south throughout southeast Asia to the eastern Australian coast.",
+    "gps": {
+      "lat": 4.38892839388725,
+      "lng": 121.60528624056842
+    }
+  },
+  {
+    "id": 27,
+    "scientificName": "Cetorhinus maximus",
+    "redlistCategory": "Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cetorhinus_maximus_by_greg_skomal.JPG/250px-Cetorhinus_maximus_by_greg_skomal.JPG",
+    "description": "The Basking Shark occurs mainly in the Atlantic and Pacific Oceans; in the Indian Ocean, it is reported only from southern Australia, Indonesia, and South Africa.",
+    "gps": {
+      "lat": -4.128586112394115,
+      "lng": -125.71893206002655
+    }
+  },
+  {
+    "id": 28,
+    "scientificName": "Balaenoptera borealis",
+    "redlistCategory": "Endangered",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Balaenoptera_borealis_3.jpg/250px-Balaenoptera_borealis_3.jpg",
+    "description": "The Sei Whale is a cosmopolitan species, with a mainly offshore distribution. The species occurs in the North Atlantic, North Pacific, and Southern Hemisphere, but there are no confirmed records in the northern Indian Ocean.",
+    "gps": {
+      "lat": 25.004789718343442,
+      "lng": 163.61700428848425
+    }
   }
 ]
