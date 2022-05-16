@@ -25,10 +25,8 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 
 Los ejes del hackathon que pueden seleccionar para desarrollar una solución son:
 
-* **Especies en peligro de extensión.**
-* ~~Contaminación (acidificación, derrames petroleros, etcétera).~~
-* ~~Cuidado y preservación de especies marinas.~~
-* ~~Sobrepesca~~
+- **Especies en peligro de extensión.**
+
 </details>
 
 <details>
@@ -53,15 +51,13 @@ Nuestra solución a este problema es que una vez identificada la amenaza canaliz
 
 <br>
 
-| Contenido | Link |
-|:---:|:---|
-|Front-End |  <a href="https://hack-the-ocean22.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/🔗link-FRONT_END-red?style=for-the-badge"></a> |
-|Back-End| <a href="https://savetheoceanbe.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/🔗link-BACK_END-green?style=for-the-badge"></a> |
-|API | <a href="https://documenter.getpostman.com/view/9844241/Uyxhoo1m" target="_blank"><img src="https://img.shields.io/badge/🔗link-API-blue?style=for-the-badge"></a> |
-|Repositorio Front-End |  <a href="https://github.com/chistoperez/HackTheOcean" target="_blank"><img src="https://img.shields.io/badge/🔗link-REPO_FE-red?style=for-the-badge"></a> |
-|Repositorio Back-End| <a href="https://github.com/doguedogue/savetheocean" target="_blank"><img src="https://img.shields.io/badge/🔗link-REPO_BE-green?style=for-the-badge"></a> |
-
-
+|       Contenido       | Link                                                                                                                                                               |
+| :-------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       Front-End       | <a href="https://hack-the-ocean22.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/🔗link-FRONT_END-red?style=for-the-badge"></a>            |
+|       Back-End        | <a href="https://savetheoceanbe.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/🔗link-BACK_END-green?style=for-the-badge"></a>             |
+|          API          | <a href="https://documenter.getpostman.com/view/9844241/Uyxhoo1m" target="_blank"><img src="https://img.shields.io/badge/🔗link-API-blue?style=for-the-badge"></a> |
+| Repositorio Front-End | <a href="https://github.com/chistoperez/HackTheOcean" target="_blank"><img src="https://img.shields.io/badge/🔗link-REPO_FE-red?style=for-the-badge"></a>          |
+| Repositorio Back-End  | <a href="https://github.com/doguedogue/savetheocean" target="_blank"><img src="https://img.shields.io/badge/🔗link-REPO_BE-green?style=for-the-badge"></a>         |
 
 ### Documentación
 
@@ -82,27 +78,27 @@ Nuestra solución a este problema es que una vez identificada la amenaza canaliz
 <details>
 <summary>  Innovación </summary>
 
-* Uso de mapas globales
-* Consulta de coordenadas geográficas
-* Consulta de API especializada en animales en peligro de extinción
+- Uso de mapas globales
+- Consulta de coordenadas geográficas
+- Consulta de API especializada en animales en peligro de extinción
 
 </details>
 
 <details>
 <summary>  Complejidad Técnica </summary>
 
-* Front-End: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-* Back-End: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-* Base de Datos: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+- Front-End: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+- Back-End: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+- Base de Datos: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 </details>
 
 <details>
 <summary>  Escalabilidad </summary>
 
-* Proyecto modularizado en React
-* Controlador de servicios REST con NodeJS
-* Almacenamiento de información en base de datos NoSQL Mongo DB
+- Proyecto modularizado en React
+- Controlador de servicios REST con NodeJS
+- Almacenamiento de información en base de datos NoSQL Mongo DB
 
 </details>
 
@@ -110,9 +106,9 @@ Nuestra solución a este problema es que una vez identificada la amenaza canaliz
 
 ## Team
 
-* <img src="https://avatars.githubusercontent.com/u/101657514?v=4" alt="@lukitachan" width="50px"/> Lucy [@lukitachan](https://github.com/lukitachan)
-* <img src="https://avatars.githubusercontent.com/u/99354481?v=4" alt="@chistoperez" width="50px"/> Christopher [@chistoperez](https://github.com/chistoperez)
-* <img src="https://avatars.githubusercontent.com/u/72330887?v=4" alt="@dfredude" width="50px"/> Alfred [@dfredude](https://github.com/dfredude)
-* <img src="https://avatars.githubusercontent.com/u/23409026?v=4" alt="@doguedogue" width="50px"/> Rafael [@doguedogue](https://github.com/doguedogue)
+- <img src="https://avatars.githubusercontent.com/u/101657514?v=4" alt="@lukitachan" width="50px"/> Lucy [@lukitachan](https://github.com/lukitachan)
+- <img src="https://avatars.githubusercontent.com/u/99354481?v=4" alt="@chistoperez" width="50px"/> Christopher [@chistoperez](https://github.com/chistoperez)
+- <img src="https://avatars.githubusercontent.com/u/72330887?v=4" alt="@dfredude" width="50px"/> Alfred [@dfredude](https://github.com/dfredude)
+- <img src="https://avatars.githubusercontent.com/u/23409026?v=4" alt="@doguedogue" width="50px"/> Rafael [@doguedogue](https://github.com/doguedogue)
 
 Todos los derechos reservados 2022 &copy;
