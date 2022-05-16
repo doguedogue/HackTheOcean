@@ -26,7 +26,9 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 Los ejes del hackathon que pueden seleccionar para desarrollar una solución son:
 
 - **Especies en peligro de extensión.**
-
+- ~~Contaminación (acidificación, derrames petroleros, etcétera).~~
+- ~~Cuidado y preservación de especies marinas.~~
+- ~~Sobrepesca~~
 </details>
 
 <details>
