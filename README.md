@@ -1,71 +1,118 @@
-# Getting Started with Create React App
+# Save the Ocean 🐋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img align='right' src="./src/assets/img/logohto.jpeg" alt="Save the Ocean" width="200" style="border-radius: 10%;"/>
 
-## Available Scripts
+_"¿Qué es el mar? Según las teorías de evolución más aceptadas de ahí viene el hombre, pero desde que existe registro hemos vivido siempre en la tierra y desde que el hombre la pisó por primera vez, dejamos de verla para mirar hacia arriba y conquistar el cielo._
 
-In the project directory, you can run:
+_Por años hicimos todo para dominar el aire y cuando lo logramos, comenzamos a navegar entre las nubes para voltear por fin hacia abajo. Hacia la majestuosidad del gran azul que domina el paisaje de nuestro mundo, el mar se ha convertido en algo con lo que soñamos constantemente y que admiramos en su grandeza._
 
-### `npm start`
+_Un majestuoso imán azul que nos llama de regreso a nuestro génesis, solo tenemos que dar un paso más allá y sentir la sal en el aire. Lo único que tenemos que hacer es quedarnos quietos para que el mar tranquilamente se acerque a nosotros con su vaivén seductor._
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+_El mar abierto nos está llamando para despertar y vivir ese sueño, solo tenemos que abrir los ojos."_
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Jerónimo Prieto. (2014). México pelágico. Pelagic Life, Calypso Films
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Proyecto para el Hackaton: Hack the Ocean
 
-### `npm run build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<details>
+<summary>  EL RETO </summary>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una problemática relacionada con los océanos, utilizando, las tecnologías, marcos de trabajo y metodologías revisadas en Launch X.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Los ejes del hackathon que pueden seleccionar para desarrollar una solución son:
 
-### `npm run eject`
+* **Especies en peligro de extensión.**
+* ~~Contaminación (acidificación, derrames petroleros, etcétera).~~
+* ~~Cuidado y preservación de especies marinas.~~
+* ~~Sobrepesca~~
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<summary>  NUESTRA SOLUCIÓN </summary>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+_"Salvar nuestro océanos poniendo un granito de arena con nuestros conocimientos en la tecnología."_
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Se elabora un proyecto con conciencia, con una visión de nuestro mundo, de nuestros océanos, que nos permite voltear a ver un problema y darle la atención necesaria.
+<br>
 
-## Learn More
+Este proyecto revisa las especies en peligro de extinción a nivel mundial, mediante una API especializada que conforma la _Red List IUCN (International Union for Conservation of Nature)_ Unión Internacional para la Conservación de la Naturaleza.
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Nuestra solución a este problema es que una vez identificada la amenaza canalizar y fortalecer mediante las organizaciones:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Protección y Conservación Pelágica AC [Pelagic Life](http://www.pelagiclife.org/)
+- Fondo Mundial para la naturaleza [WFF](https://www.wwf.org.mx/)
+- La Asociación Mexicana de Hábitats para la Interacción y Protección de Mamíferos Marinos [AMHMAR](http://www.amhmar.org.mx/)
+- Oceana [Oceana](https://mx.oceana.org/)
 
-### Code Splitting
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+| Contenido | Link |
+|:---:|:---|
+|Front-End |  <a href="https://hack-the-ocean22.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/🔗link-FRONT_END-red?style=for-the-badge"></a> |
+|Back-End| <a href="https://savetheoceanbe.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/🔗link-BACK_END-green?style=for-the-badge"></a> |
+|API | <a href="https://documenter.getpostman.com/view/9844241/Uyxhoo1m" target="_blank"><img src="https://img.shields.io/badge/🔗link-API-blue?style=for-the-badge"></a> |
+|Repositorio Front-End |  <a href="https://github.com/chistoperez/HackTheOcean" target="_blank"><img src="https://img.shields.io/badge/🔗link-REPO_FE-red?style=for-the-badge"></a> |
+|Repositorio Back-End| <a href="https://github.com/doguedogue/savetheocean" target="_blank"><img src="https://img.shields.io/badge/🔗link-REPO_BE-green?style=for-the-badge"></a> |
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Documentación
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<details>
+<summary>  Diagrama de la solución </summary>
+<br>
+<img src="./src/assets/img/bosquejo.png" alt="Diagrama" width="500"/>
 
-### Advanced Configuration
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<details>
+<summary>  Diseño </summary>
+<br>
+<img src="./src/assets/img/hero.png" alt="Landing Page" width="500"/>
 
-### Deployment
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<details>
+<summary>  Innovación </summary>
 
-### `npm run build` fails to minify
+* Uso de mapas globales
+* Consulta de coordenadas geográficas
+* Consulta de API especializada en animales en peligro de extinción
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# HackTheOcean
+</details>
+
+<details>
+<summary>  Complejidad Técnica </summary>
+
+* Front-End: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+* Back-End: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+* Base de Datos: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
+<summary>  Escalabilidad </summary>
+
+* Proyecto modularizado en React
+* Controlador de servicios REST con NodeJS
+* Almacenamiento de información en base de datos NoSQL Mongo DB
+
+</details>
+
+</details>
+
+## Team
+
+* <img src="https://avatars.githubusercontent.com/u/101657514?v=4" alt="@lukitachan" width="50px"/> Lucy [@lukitachan](https://github.com/lukitachan)
+* <img src="https://avatars.githubusercontent.com/u/99354481?v=4" alt="@chistoperez" width="50px"/> Christopher [@chistoperez](https://github.com/chistoperez)
+* <img src="https://avatars.githubusercontent.com/u/72330887?v=4" alt="@dfredude" width="50px"/> Alfred [@dfredude](https://github.com/dfredude)
+* <img src="https://avatars.githubusercontent.com/u/23409026?v=4" alt="@doguedogue" width="50px"/> Rafael [@doguedogue](https://github.com/doguedogue)
+
+Todos los derechos reservados 2022 &copy;
