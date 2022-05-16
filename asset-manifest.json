@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HackTheOcean/static/css/main.02937e07.css",
-    "main.js": "/HackTheOcean/static/js/main.c0a7acfb.js",
+    "main.js": "/HackTheOcean/static/js/main.9f0d77cd.js",
     "static/media/FishBg.mp4": "/HackTheOcean/static/media/FishBg.d9909b8757d0cc76e4aa.mp4",
     "static/media/CR.svg": "/HackTheOcean/static/media/CR.6fe1495825e4380e4d9eb41a679e5b21.svg",
     "static/media/LC.svg": "/HackTheOcean/static/media/LC.a9acdb92875a795c31e82aab5c5d0b97.svg",
@@ -13,10 +13,10 @@
     "static/media/EX.svg": "/HackTheOcean/static/media/EX.d5b9318e363c0a2b4fd626bfdd79b552.svg",
     "index.html": "/HackTheOcean/index.html",
     "main.02937e07.css.map": "/HackTheOcean/static/css/main.02937e07.css.map",
-    "main.c0a7acfb.js.map": "/HackTheOcean/static/js/main.c0a7acfb.js.map"
+    "main.9f0d77cd.js.map": "/HackTheOcean/static/js/main.9f0d77cd.js.map"
   },
   "entrypoints": [
     "static/css/main.02937e07.css",
-    "static/js/main.c0a7acfb.js"
+    "static/js/main.9f0d77cd.js"
   ]
 }
