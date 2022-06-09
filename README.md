@@ -14,7 +14,7 @@ Jerónimo Prieto. (2014). México pelágico. Pelagic Life, Calypso Films
 
 <br>
 
-## Proyecto para el Hackaton: Hack the Ocean
+## Proyecto para el Hackaton: Hack the Ocean 2022
 
 <br>
 
